@@ -16,7 +16,8 @@ I especially love **designing algorithms and solving problems**.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aysesude&show_icons=true&theme=tokyonight)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysesude&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aysesude&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysesude&layout=compact&theme=tokyonight)
 
 ---
 
