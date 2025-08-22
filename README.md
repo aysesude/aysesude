@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ayşe Sude
 
 I am a **Computer Engineering student at Yıldız Technical University**.  
-I am also a **core curriculum student at 42 Schools**, continuing to work on my projects.  
+I am also a student at **42 Schools**, continuing to work on my projects.  
 Currently, I am on a journey of self-improvement and exploring the areas I enjoy.  
 I especially love **designing algorithms and solving problems**.  
 
@@ -22,8 +22,7 @@ I especially love **designing algorithms and solving problems**.
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysesudecami)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiaysesude@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysesudecami)   [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiaysesude@gmail.com)
 
 
 ---
