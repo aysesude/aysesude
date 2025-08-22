@@ -1,7 +1,6 @@
-<h1>
-  Hi there! 👋 I'm Ayşe Sude
-  <img src="https://komarev.com/ghpvc/?username=aysesude&color=blue" alt="Profile Views" style="vertical-align:middle; float:right;">
-</h1>
+# Hi there! 👋 I'm Ayşe Sude
+
+![Profile Views](https://komarev.com/ghpvc/?username=aysesude&color=blue)
 
 I am a **Computer Engineering student at Yıldız Technical University**.  
 I am also a student at **42 Schools**, continuing to work on my projects.  
