@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ayşe Sude
 
-<!--
-**aysesude/aysesude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering student at Yıldız Technical University**.  
+I am also a **core curriculum student at 42 Schools**, continuing to work on my projects.  
+Currently, I am on a journey of self-improvement and exploring the areas I enjoy.  
+I especially love **designing algorithms and solving problems**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,vscode" />
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aysesude&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysesude&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysesudecami)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiaysesude@gmail.com)
+
+
+---
