@@ -2,15 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aysesude&color=blue)
 
-I am a **Computer Engineering student at Yıldız Technical University**.  
-I am also a student at **42 Schools**, continuing to work on my projects.  
-Currently, I am on a journey of self-improvement and exploring the areas I enjoy.  
-I especially love **designing algorithms and solving problems**.  
+I am a **Computer Engineering student at Yıldız Technical University**. I am also a student at **42 Schools**, continuing to work on my projects. Currently, I am on a journey of self-improvement and exploring the areas I enjoy. I especially love **designing algorithms and solving problems**.  
 
 ---
 
 ## 🛠 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,git,linux,vscode,bash" />
 
 ---
 
